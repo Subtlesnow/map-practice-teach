@@ -109,6 +109,11 @@ const data = [
 //  { Raul: 'Harlem' }
 // ]
 ```
+## When not to use `map`:
+ - When you are not **using** the array `map()` returns
+ - When you are not **returning** a value from the callback.
+ - When new elements added to the array after the `map()` function begins.
+ 
 ## Review
   - When would we use `.map` over `forEach`?
   - Do we modify the existing array?
