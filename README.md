@@ -79,7 +79,7 @@ let words = ["this", "is", "an", "array", "of", "strings"]
 // Returns ['this*', 'is*', 'a*', 'special*', 'array*', 'of*', 'strings*']
 ```
 ### You do:
-For the following exercises, please use this same object:
+For the following two exercises, please use this array:
 ```js
 const data = [
   {name: 'Marty', age: 34, city: 'Brooklyn'},
@@ -89,6 +89,7 @@ const data = [
 ]
 ```
 Exercise 1:
+Given the following array, create a new array of names.
 ```js
 // [ 'Marty', 'Mick', 'Meagan', 'Raul' ]
 ```
