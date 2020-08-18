@@ -7,6 +7,7 @@
 ### What:
 From MDN: [Array.prototype.map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 > Map calls a provided callback function once for each element in an array, in order, and constructs a new array from the results. A callback is invoked only for indexes of the array which have assigned values (including undefined).
+
 Today we will introduce the array method `.map()` which is used to transform arrays. This transformation may be as simple as multiplying each number in an array of numbers by a certain factor, concatenating an array of strings to create new array of strings, or building collections of elements in React.
 There are certainly ways to perform these tasks using `for` or `while` loops,
 both those solutions have the disadvantage of being complex to read and reason
