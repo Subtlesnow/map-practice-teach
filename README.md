@@ -40,7 +40,7 @@ A callback function, is a function passed into another function as an argument, 
 ```js
 // const higherOrderFunction = (callback) => return callback()
 ```
-*What is our callback function for our previous example?*
+*What is our callback function for our `forEach()` example?*
 ### Let's now return a new array from our `for` loop and our `forEach()` method.
 ```js
 let numbers = [1, 2, 3, 4, 5]
